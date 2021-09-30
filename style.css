@@ -1,0 +1,37 @@
+body{
+    background: darkslateblue;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#topbar{
+        background: mediumslateblue;
+		padding: 10px;
+		box-shadow: 20px 20px slateblue;
+        margin-top: 10px;
+        width: 90%;
+        font-family: 'Gemunu Libre', sans-serif;
+        color: black;
+        text-shadow: 2px 2px  slateblue;
+}
+
+#startbutton{
+    border: 1px;
+	background: mediumslateblue;
+    padding: 10px;
+    box-shadow: 5px 5px  slateblue;
+    font-family: 'Gemunu Libre', sans-serif;
+    text-shadow: 2px 2px  darkslateblue;
+    color: black;
+}
+
+#copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    color: rgb(52, 77, 77);
+    background-color: slateblue;
+    font-size: 20px;
+    text-align:center;
+    text-shadow: 2px 2px  darkslateblue;
+    color: black;
+}
